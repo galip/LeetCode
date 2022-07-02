@@ -1,4 +1,4 @@
-package problems;
+package problems.easy;
 
 //https://leetcode.com/problems/sign-of-the-product-of-an-array/
 public class SignOfTheProduct {

@@ -1,6 +1,6 @@
-package problems;
+package problems.easy;
 
-//https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+// https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 public class AverageSalaryExcMinMax {
 	public static void main(String args[]) {
 

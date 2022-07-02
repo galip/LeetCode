@@ -1,6 +1,6 @@
-package problems;
+package problems.easy;
 
-//leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
+// leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 public class NearestPointHasTheSameXOrYCoordinate {
 	public static void main(String args[]) {
 		int x = 5;

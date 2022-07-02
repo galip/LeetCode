@@ -1,4 +1,4 @@
-package problems;
+package problems.easy;
 
 // https://leetcode.com/problems/number-of-1-bits/
 public class NumberOf1Bits {

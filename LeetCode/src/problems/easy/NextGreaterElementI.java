@@ -1,4 +1,4 @@
-package problems;
+package problems.easy;
 
 // https://leetcode.com/problems/next-greater-element-i/
 public class NextGreaterElementI {

@@ -1,8 +1,8 @@
-package problems;
+package problems.easy;
 
 import java.util.Arrays;
 
-//https://leetcode.com/problems/largest-perimeter-triangle/
+// https://leetcode.com/problems/largest-perimeter-triangle/
 public class LargestPerimeterTriangle {
 	public static void main(String args[]) {
 		int[] arr = { 3,2,3,4 };

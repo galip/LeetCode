@@ -1,4 +1,4 @@
-package problems;
+package problems.easy;
 
 // https://leetcode.com/contest/biweekly-contest-81/problems/count-asterisks/
 public class CountAsteriks {

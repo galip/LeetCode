@@ -1,4 +1,4 @@
-package problems;
+package problems.easy;
 
 // https://leetcode.com/problems/find-the-difference/
 public class FindTheDifference {
