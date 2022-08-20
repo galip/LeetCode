@@ -11,7 +11,7 @@ public class BinaryTreePreorderTraversal {
 		root.left = new TreeNode(1);
 		root.right= new TreeNode(2);
 		
-		preorderTraversal(root);
+		System.out.println(preorderTraversal(root));
 	}
 
 	public static List<Integer> preorderTraversal(TreeNode root) {
