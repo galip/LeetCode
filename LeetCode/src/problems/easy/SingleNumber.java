@@ -2,6 +2,7 @@ package problems.easy;
 
 import java.util.HashMap;
 
+// https://leetcode.com/problems/single-number/
 public class SingleNumber {
 	public static void main(String args[]) {
 
