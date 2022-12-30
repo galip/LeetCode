@@ -1,7 +1,5 @@
 package problems.easy;
 
-import java.util.Stack;
-
 // https://leetcode.com/problems/add-binary/
 public class AddBinary {
 	public static void main(String args[]) {
