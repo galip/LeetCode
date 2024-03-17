@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+--https://leetcode.com/problems/employees-whose-manager-left-the-company
 select e.employee_id from employees e where 
 e.salary < 30000 and
 not exists 
