@@ -4,4 +4,5 @@ package problems.easy;
 public class SortThePeople {
 
     //   IntelliJ test
+
 }
